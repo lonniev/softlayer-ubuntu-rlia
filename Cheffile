@@ -4,3 +4,7 @@
 site 'http://community.opscode.com/api/v1'
 
 cookbook 'apt'
+cookbook 'openssl'
+cookbook 'java'
+cookbook 'tomcat'
+cookbook 'apache2'
